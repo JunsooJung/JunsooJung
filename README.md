@@ -1,10 +1,40 @@
 # Welcome to Junsoo Jung's github 
 
-### About me
+## About Me!
 As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning them into practical prototypes. I focus not only on building models but also on exploring data with colleagues, understanding the core of a problem, and creating solutions together. I design clear dashboards that make complex information easy to understand and I build reliable pipelines so that results can be trusted and reused. My goal is to make data more than numbers and charts and to help it drive decisions and support team growth.
 
 
-### Projects (Mostly repo links, and some pdf and youtube)
+## Educations
+### University of Coloardo, Boulder
+
+#### Courses Taken
+- CSCI 5810 : Capstone [Project collaborate with Parlay Finance and University of Colorado, Boulder]
+- CSCI 5922 : Neural Nets and Deep Learning
+- CSCI 5622 : Machine Learning
+- CSCI 5832 : Natural Language Processing
+- ATLS 5214 : Big Data Architecture
+- CSCI 5502 : Data Mining
+- DTSC 5501 : Data Structure and Algorithms
+- DTSC 5303 : Cyber Security
+- DTSC 5301 : Data Science as a Field
+- DTSC 5302 : Ethical Issues in DS
+- STAT 5000 : Statistic Methods and Application I
+- STAT 5010 : Statistic Methods and Application II
+
+#### Skills and Tools I learned
+
+- **Python**
+- HTML/CSS/JAVAScript
+- Data Analysis
+- Data Cleaning
+- Data Scraping
+- Big Data Handling
+- Machine Learning
+- Neural Nets
+- Driving Skills
+- Collaborate with Team
+
+## Projects (Mostly repo links, and some pdf and youtube)
 
 - [Loan System Automation](https://github.com/JunsooJung/Parley_CUB_Spring2025) Collab w/ Pallay and CU Boulder! 
 - [Bird Image Classification](https://www.canva.com/design/DAGlxuT6BGE/rV1nkOv05-73P1kn_wMdoA/edit?utm_content=DAGlxuT6BGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
