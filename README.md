@@ -29,10 +29,44 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - Data Cleaning
 - Data Scraping
 - Big Data Handling
-- Machine Learning
-- Neural Nets
+- **Machine Learning**
+- **Neural Nets**
+- **Natural Language Processing**
+- **Deep Learning**
+- Vision Transformer
 - Driving Skills
 - Collaborate with Team
+
+
+### San Francisco State University
+
+#### Course Taken
+
+- MATH 696, 697 APPLIED MATH PROJECT I, II [Potential of the Randomized numerical methods]
+- MATH 448 : STAT LEARNING & DATA MINING
+- MATH 447 : PARTIAL DIFFERENTIAL EQUATIONS
+- MATH 477 : DES & ANALYSIS OF EXPERIMENTS
+- MATH 460 : MATHEMATICAL MODELING
+- MATH 441 : PROBABILITY AND STATISTICS II
+- MATH 440 : PROBABILITY AND STATISTICS I
+- MATH 491 : GAME THEORY
+- MATH 400 : NUMERICAL ANALYSIS
+
+#### Skills and Tools I learned
+
+- **R**
+- Matlab
+- **Mathematical Modeling**
+- RSVD
+- Computational mathematics
+- **Statistics**
+- PDE
+- Game Theory
+- Collaborate with Team
+- **LaTeX**
+
+
+
 
 ## Projects (Mostly repo links, and some pdf and youtube)
 
