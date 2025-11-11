@@ -36,6 +36,8 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - Vision Transformer
 - Driving Skills
 - Collaborate with Team
+- VS Code
+- Google Colab
 
 
 ### San Francisco State University
@@ -64,6 +66,17 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - Game Theory
 - Collaborate with Team
 - **LaTeX**
+
+### MBC Computer Acadammy[Korea]
+
+#### SKills and Tools I learned
+
+- OverFlow
+- Database
+- MariaDB
+- Pycharm
+- Data Cleaning
+- ML models
 
 
 
