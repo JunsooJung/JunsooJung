@@ -4,6 +4,61 @@
 As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning them into practical prototypes. I focus not only on building models but also on exploring data with colleagues, understanding the core of a problem, and creating solutions together. I design clear dashboards that make complex information easy to understand and I build reliable pipelines so that results can be trusted and reused. My goal is to make data more than numbers and charts and to help it drive decisions and support team growth.
 
 
+## Careers
+### OB Korea (ABInBev)
+- Junior Data Engineer
+#### Watchtower : Global Project for the Marketing Decision Making
+  - Data Engineering
+    - Designed and implemented end-to-end data preprocessing and transformation pipelines, ingesting raw data from multiple source teams across global business units.
+    - Structured and loaded data into Azure Databricks as queryable tables using Spark-based ETL/ELT processes against RDB and file-based data sources.
+    - Built and maintained automated workflow orchestration using Azure Data Factory (ADF), enabling reliable and scheduled data delivery.
+  - Data Quality & Anomaly Detection
+    -	Performed anomaly detection on ingested datasets to identify data integrity issues, outliers, and inconsistencies across heterogeneous source systems
+  	-	Investigated root causes of data errors and reported findings with actionable feedback to respective data source teams
+  	-	Maintained change logs and distributed update summaries via Excel to stakeholders, ensuring transparent data lineage tracking
+  - Global Collaboration & Communication
+	  -	Participated in daily global stand-up meetings via MS Teams, coordinating with cross-functional team across country
+	  -	Acted as a technical bridge between data source teams and downstream consumers, facilitating timely issue resolution and alignment
+	  -	Communicated data change impacts and pipeline updates to both technical and non-technical stakeholders
+  - Business Impact
+	  -	Supplied processed, production-ready data to Watchtower — an internal web application used across country — enabling real-time visualization of sales KPIs and business impact metrics
+	  -	Enabled business users to self-serve sales performance insights through a PowerBI-style interface, reducing dependency on ad-hoc data requests
+   
+<h4>Tech Stacks</h4>
+<table>
+  <tr>
+    <td><b>Cloud & Data Platform</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Processing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ETL%2FELT Pipeline-4B8BBE?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RDB-336791?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Query & Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Collaboration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MS%20Teams-6264A7?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+
 ## Educations
 ### University of Coloardo, Boulder
 
@@ -22,23 +77,50 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - STAT 5010 : Statistic Methods and Application II
 
 #### Skills and Tools I learned
-
-- **Python**
-- HTML/CSS/JAVAScript
-- Data Analysis
-- Data Cleaning
-- Data Scraping
-- Big Data Handling
-- **Machine Learning**
-- **Neural Nets**
-- **Natural Language Processing**
-- **Deep Learning**
-- Vision Transformer
-- Driving Skills
-- Collaborate with Team
-- VS Code
-- Google Colab
-
+<table>
+<tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Deep Learning-EE4C2C?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Neural Nets-A100FF?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-00BCD4?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vision Transformer-5C6BC0?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data Analysis-4CAF50?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data Cleaning-78909C?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data Scraping-FF7043?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Big Data-FF6D00?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Etc</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Driving License-263238?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Team Collaboration-0288D1?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ### San Francisco State University
 
@@ -55,30 +137,70 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - MATH 400 : NUMERICAL ANALYSIS
 
 #### Skills and Tools I learned
-
-- **R**
-- Matlab
-- **Mathematical Modeling**
-- RSVD
-- Computational mathematics
-- **Statistics**
-- PDE
-- Game Theory
-- Collaborate with Team
-- **LaTeX**
+<table>
+<tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mathematics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Mathematical Modeling-7B1FA2?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Computational Mathematics-283593?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Statistics-00695C?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PDE-AD1457?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Game Theory-E65100?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RSVD-4527A0?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Etc</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Team Collaboration-0288D1?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ### MBC Computer Acadammy[Korea]
 
 #### SKills and Tools I learned
-
-- OverFlow
-- Database
-- MariaDB
-- Pycharm
-- Data Cleaning
-- ML models
-
-
+<table>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Database-4479A1?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ML Models-FF6F00?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data Cleaning-78909C?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Etc</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Projects (Mostly repo links, and some pdf and youtube)
