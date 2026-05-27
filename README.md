@@ -3,6 +3,9 @@
 ## About Me!
 As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning them into practical prototypes. I focus not only on building models but also on exploring data with colleagues, understanding the core of a problem, and creating solutions together. I design clear dashboards that make complex information easy to understand and I build reliable pipelines so that results can be trusted and reused. My goal is to make data more than numbers and charts and to help it drive decisions and support team growth.
 
+<br>
+<br>
+<br>
 
 ## Careers
 ### OB Korea (ABInBev)
@@ -58,6 +61,9 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
   </tr>
 </table>
 
+<br>
+<br>
+<br>
 
 ## Educations
 ### University of Coloardo, Boulder
@@ -122,6 +128,9 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
   </tr>
 </table>
 
+<br>
+<br>
+
 ### San Francisco State University
 
 #### Course Taken
@@ -170,6 +179,9 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
   </tr>
 </table>
 
+<br>
+<br>
+
 ### MBC Computer Acadammy[Korea]
 
 #### SKills and Tools I learned
@@ -202,6 +214,9 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
   </tr>
 </table>
 
+<br>
+<br>
+<br>
 
 ## Projects (Mostly repo links, and some pdf and youtube)
 
@@ -221,4 +236,4 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 
 
 #### And this is my personal website porfolio. Come check this!
-[Link](https://portfolio-website-4d8.pages.dev/)
+[Link To My Website!](https://portfolio-website-4d8.pages.dev/)
