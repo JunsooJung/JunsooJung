@@ -1,4 +1,6 @@
-# Welcome to Junsoo Jung's github 
+# Welcome to Junsoo Jung's GitHub 
+
+<br>
 
 ## About Me!
 As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning them into practical prototypes. I focus not only on building models but also on exploring data with colleagues, understanding the core of a problem, and creating solutions together. I design clear dashboards that make complex information easy to understand and I build reliable pipelines so that results can be trusted and reused. My goal is to make data more than numbers and charts and to help it drive decisions and support team growth.
