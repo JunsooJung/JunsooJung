@@ -12,6 +12,7 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 ## Careers
 ### OB Korea (ABInBev)
 - Junior Data Engineer
+  - 2026.03 ~ Present
 #### Watchtower : Global Project for the Marketing Decision Making
   - Data Engineering
     - Designed and implemented end-to-end data preprocessing and transformation pipelines, ingesting raw data from multiple source teams across global business units.
@@ -68,8 +69,10 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 <br>
 
 ## Educations
-### University of Coloardo, Boulder
-
+### University of Colorado, Boulder
+- Master of Science, Data Science
+  - Graduated on 2025
+  
 #### Courses Taken
 - CSCI 5810 : Capstone [Project collaborate with Parlay Finance and University of Colorado, Boulder]
 - CSCI 5922 : Neural Nets and Deep Learning
@@ -85,10 +88,10 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - STAT 5010 : Statistic Methods and Application II
 
 #### Projects
-- [Loan System Automation](https://github.com/JunsooJung/Parley_CUB_Spring2025) Collab w/ Pallay and CU Boulder! 
+- [Loan System Automation](https://github.com/JunsooJung/Parley_CUB_Spring2025) Collab w/ Parlay and CU Boulder! 
 - [Bird Image Classification](https://www.canva.com/design/DAGlxuT6BGE/rV1nkOv05-73P1kn_wMdoA/edit?utm_content=DAGlxuT6BGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [PatientsView API Analysis](https://sites.google.com/view/cub-jj-ml/introduction)
-- [Steam Game Sales Anlysis in 2021](https://sites.google.com/view/cscigroup7/welcome)
+- [Steam Game Sales Analysis in 2021](https://sites.google.com/view/cscigroup7/welcome)
 - [Farm to Trash](https://github.com/JunsooJung/CUBoulder_Farm-to-Trash/tree/main)
 - [Pet Adoption rate on Animal Shelter](https://github.com/JunsooJung/CUBoulder_STAT5010)
 - [Health and Wealth](https://github.com/JunsooJung/CUBoulder_Stat5000_Final_Project/blob/main/stat5000_final.ipynb)
@@ -143,6 +146,8 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 <br>
 
 ### San Francisco State University
+- Bachelor of Science, Applied Mathematics
+  - Graduated on 2023
 
 #### Course Taken
 
@@ -160,7 +165,7 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - [RSVD Analysis](https://github.com/JunsooJung/SFSU-MATH697-Personal/blob/main/RSVD_Thesis.pdf)
 - [Myanmar 2021 with Game Theory](https://github.com/JunsooJung/SFSU-Math490-Game-Theory/blob/main/Myanmar.docx.pdf)
 - [Web Application with EONET and LLM](https://github.com/JunsooJung/eonetLLM)
-- [SCUDEM VI 2021 Probelm 1 : Nest Fur](https://youtu.be/w_-F8C_QJRs)
+- [SCUDEM VI 2021 Problem 1 : Nest Fur](https://youtu.be/w_-F8C_QJRs)
 - [Sea Level Changes](https://youtu.be/gvVjd80KZxI)
 
 #### Skills and Tools I learned
@@ -200,9 +205,10 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 <br>
 <br>
 
-### MBC Computer Acadammy[Korea]
+### MBC Computer Academy[Korea]
+- 2025.10 ~ 2026.01
 
-#### What we doing?
+#### What we learned.
 - Learned about Computer Vision and CNN
 - Collaborate with team and build the product
 - Work on government supported projects
@@ -211,7 +217,7 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 - [Floating waste detection](https://www.canva.com/design/DAG5wyzR7N4/pkta9K4dYsFzBCjR6M85HQ/edit)
 - [Typing without Keyboards](https://www.canva.com/design/DAG6hirwlbU/um_ble_GdNquzaWFEAffew/edit?utm_content=DAG6hirwlbU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-#### SKills and Tools I learned
+#### Skills and Tools I learned
 <table>
   <tr>
     <td><b>Database</b></td>
@@ -245,5 +251,5 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
 <br>
 <br>
 
-#### And this is my personal website porfolio. Come check this!
+#### And this is my personal website portfolio. Come check this!
 [Link To My Website!](https://portfolio-website-4d8.pages.dev/)
