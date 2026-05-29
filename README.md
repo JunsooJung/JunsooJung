@@ -136,7 +136,6 @@ As a Data Scientist and Analyst I enjoy testing new ideas quickly and turning th
   <tr>
     <td><b>Etc</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Driving License-263238?style=flat&logoColor=white"/>
       <img src="https://img.shields.io/badge/Team Collaboration-0288D1?style=flat&logoColor=white"/>
     </td>
   </tr>
